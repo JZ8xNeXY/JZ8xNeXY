@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning React!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [Twitter - @JZ8xNeXY](https://x.com/8xNeXY)
 <br>
 
 
